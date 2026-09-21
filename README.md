@@ -4,12 +4,19 @@ A Machine Learning web application built using **Python**, **Scikit-Learn**, and
 
 ---
 
+## 🚀 Live Demo
+
+Try the deployed Car Price Predictor application here:
+
+[👉 Open Car Price Predictor](https://nunnasushma-chatbot1-app-vbr3w4.streamlit.app/)
+
+---
+
 ## 1. Project Title
 **Car Price Predictor**
 
 ## 2. Project Objective
 To build an end-to-end Machine Learning pipeline that predicts the expected car selling price given its model, manufacturing year, kilometers driven, fuel type, seller type, transmission, and previous ownership history.
-
 ## 3. Problem Statement
 When buying or selling a car, determining a fair market price is challenging due to multiple influencing factors such as car brand/model, age, mileage, fuel type, transmission, and ownership count. This project answers the question:
 > *"If I have this particular car, with these characteristics, what could its expected price be?"*
@@ -147,3 +154,4 @@ Output:
 - Incorporate vehicle brand/manufacturer extraction as a secondary feature.
 - Include hyperparameter tuning via `GridSearchCV`.
 - Deploy to Streamlit Community Cloud.
+](https://nunnasushma-chatbot1-app-vbr3w4.streamlit.app/)
